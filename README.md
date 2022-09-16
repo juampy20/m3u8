@@ -60,29 +60,30 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN https://cooplay.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 https://cooplay.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C2bLOfzKQdhZKtm9fpI6ZHOZIo-QVo3HDHFW7wSTxB_zOySVAXLixAtUHmLtd5NI5sXf5OBZCv7eWhNPmBqCfewYnUBR8ZR-Uwk8BkNY9ZGwRb0LgCvrxKT_O2ocOTzsA_ihT8u9Vv8ggJW77NYKqYZKAHFMUdBShrGhFadrwlDvmoGz2TQQeGbB/s1600/ver-espn-2-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 2 
+https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 https://cooplay.cdn.rcs.net.ar/mnp/espn3/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpQGxJxAzdlscYicMUheEfA0a2k3CvigLOkc14QDdnSHMLjopwnp1R8rVEKOKeekquirgN_UCjUQsJHNY04Hs0MWAa3IEO4Gg3vV90n4-KqspBAZoOAWWwU73KsbmEv4T4u-C7vpqDJIuOlMxtVKgl-uhZCVKVfqHKdPCBGHmlVfcI1Evb5A0zAvu7/s1600/ver-espn-3-en-vivo.jpg" group-title="(DEPORTES)" , ESPN 3 https://delivery.cdn.rcs.net.ar/mnp/espn3_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium https://cooplay.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" group-title="(DEPORTES)" , ESPN Premium https://delivery.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2018/01/fox_sports_563.jpg?fit=563%2C296&ssl=1" group-title="(DEPORTES)" , FOX SPORTS https://cooplay.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/w480/Fox_Sports_2.png" group-title="(DEPORTES)" , FOX SPORTS 2 https://cooplay.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/w480/Fox_Sports_2.png" group-title="(DEPORTES)" , FOX SPORTS 2 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/w480/ver-fox-sports-3-en-vivo.jpg" group-title="(DEPORTES)" , FOX SPORTS 3 https://cooplay.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/w480/ver-fox-sports-3-en-vivo.jpg" group-title="(DEPORTES)" , FOX SPORTS 3 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-TyC-Sports-en-vivo-online-GRATIS-780x470.jpg" group-title="(DEPORTES)" , TYC SPORTS https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN https://cooplay.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-inqhqQZAAGQ/YUDp5oL3lxI/AAAAAAAAAPY/NmRDCbQRAusmLK-7egIs-op4_u1z12_gACLcBGAsYHQ/w480/AXN.png" group-title="(CINE)" , AXN https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT https://cooplay.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhc-UYX7Vn9Ua5K2M2L1pi_ssLWJDJcwsIlw2EG8_kwppO6GVLVEsAVlqRyIhCWjRbgljzMuDnbGHoVPVBA7S9EwhtstmaIVGrP06PLSwJRTKmeZeAtTO2eJrys8XT9VkzaNUxJo-9tmYK_pPUFTg-gtM5Tys8u8uw3kZwA6pt-j60950tzsbdvO9l-" group-title="(CINE)" , TNT https://delivery.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE https://cooplay.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iD3Pp52qkYE/YsDywQHYs6I/AAAAAAAAAm4/u0hKfVvSTSU-B-kLAy2QI7vSkMapQgbOACNcBGAsYHQ/h120/ver-space-en-vivo.jpg" group-title="(CINE)" , SPACE https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC https://cooplay.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal https://cooplay.cdn.rcs.net.ar/mnp/universal/output.mpd
 
