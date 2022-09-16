@@ -85,35 +85,35 @@ https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/w480/AMC.png" group-title="(CINE)" , AMC https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal https://cooplay.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GO_4vazX3lo/Ys9KMwNGLmI/AAAAAAAAAp8/6SfRXjBNMUQzuoijUxzqi6MHtzazHKx5gCNcBGAsYHQ/h120/ver-universal-tv-en-vivo.jpg" group-title="(CINE)" , Universal https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fx_m.png" group-title="(CINE)" , FX https://cooplay.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fx_m.png" group-title="(CINE)" , FX https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="(CINE)" , WARNER https://cooplay.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="(CINE)" , WARNER https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="(CINE)" , SONY https://cooplay.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sony_Channel_2019.svg/revision/latest/scale-to-width-down/200?cb=20200117013250&path-prefix=es" group-title="(CINE)" , SONY https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="(CINE)" , CINECANAL https://cooplay.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/4b/ab/54/4bab54bc7bad8e728654032c5c817154.png" group-title="(CINE)" , CINECANAL https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media-exp2.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2147483647&v=beta&t=jIwFx63mao3NBPEYBn-_hS--cPrx5bT5h0jUL6jlAto" group-title="(CINE)" , HBO https://cooplay.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1 tvg-logo="https://media-exp2.licdn.com/dms/image/C560BAQHQ303-nahsMQ/company-logo_200_200/0/1593608716508?e=2147483647&v=beta&t=jIwFx63mao3NBPEYBn-_hS--cPrx5bT5h0jUL6jlAto" group-title="(CINE)" , HBO https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="(CINE)" , HBO 2 https://cooplay.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-2_m.png" group-title="(CINE)" , HBO 2 https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="(CINE)" , HBO PLUS https://cooplay.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="(CINE)" , HBO PLUS https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="(CINE)" , HBO POP https://cooplay.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="(CINE)" , HBO POP https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="(CINE)" , ISAT https://cooplay.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-GGsnT8OYxqU/UJv5NAiymbI/AAAAAAAAXMo/3iytiCwX69s/s1600/isat.jpg" group-title="(CINE)" , ISAT https://delivery.cdn.rcs.net.ar/mnp/isat_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="(CINE)" , CINEMAX https://cooplay.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/w480/Cinemax.png" group-title="(CINE)" , CINEMAX https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="(CINE)" , TBS https://cooplay.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DRmD9dsKTi0/Ys9XhEvF5uI/AAAAAAAAAqM/NSP5eDAuKuAbbcfdah2I4rVpOvdSWahywCNcBGAsYHQ/w480/ver-tbs-en-vivo.jpg" group-title="(CINE)" , TBS https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="(CINE)" , TCM https://cooplay.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Riqq0wkw9UY/YT5RS6UxToI/AAAAAAAAAOQ/yfkgOB2YSOc_-xEiyvrq96QSYBgcQD8WACLcBGAsYHQ/w480/TCM.png" group-title="(CINE)" , TCM https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhWjRQbbj9z-e8f_ZdUMB3negMEUlb6q6Rraql-rEHDRIyJTmGUOH5PI3DlCYmUlTy98H68aKLturEdTjDEIGTsytYLV6xBXXLw9etv1ggELuhXd2llW_86v27dpBoDnx9xQkHEcI2I37-q6uVdPcu0Kocm15ApYAoT2-IVIS7UevH2coIZF0vKDG/w480/ver-syfy-en-vivo.jpg" group-title="(CINE)" , SYFY https://cooplay.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyhWjRQbbj9z-e8f_ZdUMB3negMEUlb6q6Rraql-rEHDRIyJTmGUOH5PI3DlCYmUlTy98H68aKLturEdTjDEIGTsytYLV6xBXXLw9etv1ggELuhXd2llW_86v27dpBoDnx9xQkHEcI2I37-q6uVdPcu0Kocm15ApYAoT2-IVIS7UevH2coIZF0vKDG/w480/ver-syfy-en-vivo.jpg" group-title="(CINE)" , SYFY https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/352f4601-c86b-4a90-96ab-cf9cee9ae351/thumbnail/640x274/bdf6b7a51fb96db68b221f8b8a0be974/logo.jpg" group-title="(CINE)" , PARAMOUNT https://cooplay.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1 tvg-logo="https://assets3.cbsnewsstatic.com/hub/i/r/2022/02/15/352f4601-c86b-4a90-96ab-cf9cee9ae351/thumbnail/640x274/bdf6b7a51fb96db68b221f8b8a0be974/logo.jpg" group-title="(CINE)" , PARAMOUNT https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/w480/ver-disney-channel.png" group-title="(INFANTIL)" , DISNEY https://cooplay.cdn.rcs.net.ar/mnp/disney/output.mpd
 
