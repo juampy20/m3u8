@@ -27,9 +27,10 @@ https://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" group-title="(NOTICIAS)", 24 HORAS ESPAÑA https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV https://cooplay.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg6hbCXLTJwlGJnJAjwhhxkuUFYKHZloh4jkmaSLF8YTBQ3FvHntXettbZkvGWGCxptJR2G2BbydUXMu2Ua5ow0N0-v7a3d_6iL0AfDD9nLZzGhvh31AfwKqB5p76OrnFiPdNGIwcVPCJWRe7MgLEhi8iJdtYWcZvmJ1aIMMH7VyjIX4FtT4ICnitvN" group-title="(CABLE)" , AMERICA TV
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE https://cooplay.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="(CABLE)", TELEFE 34.1 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
@@ -47,15 +48,17 @@ https://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065218196142284801/bzqyl5rf_400x400.jpg" group-title="(CABLE)", TELEFE BAHIA BLANCA http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0091
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE https://cooplay.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-c1tQj7-qPkg/YUDkxJFOB8I/AAAAAAAAAOw/QlkimYlh_Mc4IQrr8g6488Xc64HVeJV2gCLcBGAsYHQ/h120/El_Trece.png" group-title="(CABLE)" , EL TRECE 
+https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="(CABLE)", 9LINK CHACO http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE https://cooplay.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE 
+https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="(CABLE)" , TV PUBLICA https://cooplay.cdn.rcs.net.ar/mnp/tvp/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="(CABLE)" , TV PUBLICA https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS https://cooplay.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4ajwj-McOpemqJeAmvE1HbNFy-drVqZjEwcL8D0unYlpPzznHYl3cV6Mvv3R98AaVF_NEtFYzijgk8jtAnGQv79Sa0oZNpvZDIw3QMiWCt7oHFVCN0nvujAvmfajgtqgOjImXVcI2tp7YJ1YkHGJKzZHosg9Oxhy8fRDh1MzFGa90BV-Qe-Tf9WWN/s1600/ver-espn-en-vivo.jpg" group-title="(DEPORTES)" , ESPN https://cooplay.cdn.rcs.net.ar/mnp/espn/output.mpd
 
