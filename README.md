@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/TN%20logo%20nuevo.png" group-title="(NOTICIAS)" ,TN 
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N https://delivery.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1Ltvq4TxvzE/YT5D2UFQimI/AAAAAAAAALY/irH51w9AkSEys2-buTru_86k_O9u_e-AQCLcBGAsYHQ/w480/C5N.png" group-title="(NOTICIAS)" , C5N https://is-tucuman.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.utpba.org/wp-content/uploads/2019/07/cronica-logo.jpg" group-title="(NOTICIAS)" , CRONICA 
-https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Su_IBL7T52g/YT5AkN3JRrI/AAAAAAAAALI/lQnG3U9ltAk-ckyIPKFkXZieGUgHyX75QCLcBGAsYHQ/w480/A24.png" group-title="(NOTICIAS)" , A 24 
-https://delivery.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://plushlamour.com.ar/wp-content/uploads/2021/01/canal3-1.png" group-title="(NOTICIAS)" , C26 
-https://delivery.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/canal26_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png" group-title="(NOTICIAS)" , CNN 
-https://delivery.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="(NOTICIAS)", TELESUR 25.4 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -35,7 +35,7 @@ https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b2keOX5lUv4/YUDkI5UqpzI/AAAAAAAAAOo/I1NXuVoeXKIG-zh2E3nh6QqvhjY_kpq4wCLcBGAsYHQ/h120/Telefe.png" group-title="(CABLE)" , TELEFE 
-https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="http://x.playerlatino.live/telefe.png" group-title="(CABLE)", TELEFE 34.1 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
@@ -63,10 +63,10 @@ https://delivery.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ver-television.online/images/elnueve_.png" group-title="(CABLE)" , EL NUEVE 
-https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x6JNcq2aLCg/YtQgLsrRQKI/AAAAAAAAAqo/_sLdYldWdig0bMS-zrJkYdyOnJJ6uvF6wCNcBGAsYHQ/h120/ver-tv-publica-canal-7-argentina-en-vivo.jpg" group-title="(CABLE)" , TV PUBLICA 
-https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-w1AMZXpwKMY/Yrtj1-e6z2I/AAAAAAAAAmg/5F2JnuuiSeYqVJ-so75-mqQc4gKfIaSLACNcBGAsYHQ/h120/tnt-sports-en-vivo.jpg" group-title="(DEPORTES)" , TNT SPORTS 
 https://delivery.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
