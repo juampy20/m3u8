@@ -148,6 +148,25 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="MISIONES", CANAL 6 POSADAS MISIONES https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.canal21tv.com.ar/images/00Logo_canal_21_nuevo_02.png" group-title="MISIONES", CANAL 21 POSADAS https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="SANTA CRUZ", CANAL 5 PICO TRUNCADO SANTA CRUZ http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-XB7qQwxGgsY/WKsrFu7SEMI/AAAAAAAAUW4/nJA6XK03oeI0v0iYaxfb1J5P-zGHRWCKACLcB/s1600/logo%2Bcanal.jpg" group-title="FORMOSA", CANAL 3 FORMOSA https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="SAN LUIS", CANAL 13 SAN LUIS https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/277194460-1172722883542606-2501920768306188360-n_orig.png" group-title="CHACO", MEGA TV CHACO https://vivo.solumedia.com:19360/megatv/megatv.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg" group-title="CHACO", CANAL 11 MACHAGAI CHACO http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455244847019855874/zs-gIQUD_400x400.jpg" group-title="LA RIOJA", CANAL 9 LA RIOJA https://inliveserver.com:1936/17012/17012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA https://panel.dattalive.com/8138/8138/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL U CORDOBA https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+
 
 
 
