@@ -119,6 +119,19 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", RTN NEUQUEN http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="NEUQUEN", CN 24/7 NEUQUEN https://panel.dattalive.com/6605140/smil:6605140.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="SAN JUAN", CANAL 4 SAN JUAN http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="SAN JUAN", TELESOL SAN JUAN https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+
+
+
+
+
 
 
 
