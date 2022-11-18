@@ -69,6 +69,30 @@ https://coopmorteros.online/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA", Canal 41 XFN MAR DEL PLATA https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="PCIA", CANAL 3 PINAMAR https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517542989664559107/gfOjoKHQ_400x400.jpg" group-title="PCIA", CANAL 10 Pergamino https://panel.dattalive.com/8134/8134/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA", CANAL 2 TELPIN PINAMAR https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA", CANAL 2 MAR DEL PLATA https://streamcasthd.com:19360/canal2mdptv/canal2mdptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA", CANAL 6 MAR DEL PLATA https://59537faa0729a.streamlock.net:443/canal6mdp/canal6mdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-bfgU_ufKFps/XrYKd9HJC_I/AAAAAAAA0hY/TxCOOPSR-R8fBb8zd9ThamFRUKIRsoFrACK8BGAsYHg/s0/2020-05-08.png" group-title="PCIA", CANAL 4 BAHIA BLANCA https://vivo.solumedia.com:19360/bvconline/bvconline.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129098446428868608/ab0xYu_B.jpg" group-title="PCIA", CANAL 12 TRENQUE LAUQUEN https://f6z5x8d4.stackpathcdn.com/stream_360/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KCqAdPir4u0/XrYMI6iIs_I/AAAAAAAA0h4/UaFlSVSv3Foz_7161A3vWWA5kkH4RTZbQCK8BGAsYHg/s0/2020-05-08.png" group-title="SALTA", CANAL 7 SALTA https://panel.dattalive.com/8074/8074/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/856175574116683777/HnWIt3t9_400x400.jpg" group-title="SALTA", MILENIUM TV SALTA https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="SALTA", MULTIVISION SALTA https://panel.dattalive.com/8250/8250/.m3u8
+
+
+
+
 
 
 
