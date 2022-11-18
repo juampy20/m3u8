@@ -91,6 +91,33 @@ https://coopmorteros.online/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="SALTA", MULTIVISION SALTA https://panel.dattalive.com/8250/8250/.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-1Be1pl8LDls/T0xCN4AbfhI/AAAAAAAASb8/YSBQlW4zUMc/s1600/tveomendoza.png" group-title="MENDOZA", TVEO MENDOZA https://5b3050bb1b2d8.streamlock.net/viviloendirecto/viviloendirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478000168016433152/2oEULfiP_400x400.png" group-title="MENDOZA", COOPE TV https://livedge-st1.video.bustream.com/coopetv/smil:rates.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/923596987471224838/D-wIdAot.jpg" group-title="MENDOZA", CANAL 10 SAN RAFAEL https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png" group-title="SANTA FE", TDC TV SANTA FE https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w790672063.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRYaEi7W3Dpwamw3n_uDorW3XvLe7Q76dX2-gKTPw=s900-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", SOL 91.5 Santa Fe
+https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoAtIdz70XOBYbpsiMug6PraWvCCVGQvNo6fEKq5jvaEttsrEZmotb9AsogSo3-vIjb4&usqp=CAU" group-title="SANTA FE", VER TV VENADO TUERTO https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w1331069396.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389209111708016646/GUIx8Uuz_400x400.jpg" group-title="SANTA FE", LINK TV SANTA FE https://panel.dattalive.com/8128_1/8128_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100580_Canal_6_Entre_Rios.png" group-title="ENTRE RIOS", 6 ENTRE RIOS TV https://stmvideo1.livecastv.com/canal6er/canal6er/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="JUJUY", CANAL 2 JUJUY http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="JUJUY", CANAL 4 JUJUY https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409893446471532551/0g2L283Y_400x400.jpg" group-title="JUJUY", CANAL 7 JUJUY https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canal13jujuy.com/img/logo-web.png" group-title="JUJUY", CANAL 13 JUJUY https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/877507453457502208/IltCxz-t_400x400.jpg" group-title="JUJUY", CANAL 2 PERICO https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8
+
 
 
 
