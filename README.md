@@ -35,6 +35,18 @@ https://coopmorteros.online/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="(REGIONALES)", CANAL 20 VILLA MARIA CORDOBA https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV 17.4 https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="AMBA", NEO TV DIGITAL 16.1 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="AMBA", CINCO TV TIGRE 30.1 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3487556435/aaae8392a11f89550187210f1a944807_400x400.jpeg" group-title="AMBA", CANAL 29 ENSENADA 29.1 https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS https://panel.dattalive.com/8012/8012/playlist.m3u8
+
 
 
 
