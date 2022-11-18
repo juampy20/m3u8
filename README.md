@@ -48,6 +48,27 @@ https://coopmorteros.online/canal50/vivo.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/894572709170032640/lf59GoQx_400x400.jpg" group-title="AMBA", TELECREATIVA LANUS https://panel.dattalive.com/8012/8012/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://img.onesignal.com/permanent/2abdeea6-0a9d-4083-913c-277bf221b79e" group-title="AMBA", SICARDI TV https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059262088/Sin_t_tulo_400x400.jpg" group-title="AMBA", REALPOLITIK LA PLATA https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="AMBA", CANAL 22 WEB https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhUQ5Os9Dt_YYuUoJ2UonRBs23Q-HMnpEe3Q0hd2g=s88-c-k-c0x00ffffff-no-rj" group-title="PCIA", MERCEDES TV https://stmvideo1.livecastv.com/mercedestv/mercedestv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PCIA", CANAL 5 TANDIL https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0FnSIU_RyiIpSh13Lib51bIc3eHkdYAdfQ&usqp=CAU" group-title="PCIA", TELEJUNIN https://videostream.shockmedia.com.ar:1936/telejunin/telejunin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="PCIA", CANAL 2 CORONEL PRINGLES https://streaming.reltid.com.ar/hls/pringles2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PCIA", Canal 41 XFN MAR DEL PLATA https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8
+
+
 
 
 
