@@ -128,6 +128,27 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="SAN JUAN", TELESOL SAN JUAN https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="SAN JUAN", DEL SUR TV SAN JUAN http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="SAN JUAN", CANAL 34 SAN JUAN http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="SAN JUAN", CANAL 79 SAN JUAN https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV63G3ylzZ5HZpuXGO3gMM_karSoJ9au5N2w&usqp=CAU" group-title="CORRIENTES", 5TV CORRIENTES http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="CORRIENTES", TELEDIEZ PASO DE LOS LIBRES https://videohd.live:19360/8020/8020.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", AZM TV https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1225781501339590657/JJjmqXse_400x400.jpg" group-title="MISIONES", CANAL 4 POSADAS MISIONES https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uYJjXBSPKcQ/XrYLr-JJG2I/AAAAAAAA0hs/wSH1Dy7JWGkic3m4szzF2dIrjTyHOYHuwCK8BGAsYHg/s0/2020-05-08.png" group-title="MISIONES", CANAL 6 POSADAS MISIONES https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+
+
 
 
 
