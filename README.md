@@ -35,7 +35,6 @@ https://coopmorteros.online/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="(REGIONALES)", CANAL 20 VILLA MARIA CORDOBA https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPLI6e2ePtz2pCdC7u82Nq_z4MWKhTFujXslNh2MzDaoyRVHQLgJtG8DcUrxn3PoZUp0&usqp=CAU" group-title="(REGIONALES)", COONET BRINKMAN https://coonet.online/hls_01/vivo.m3u8
 
 
 
