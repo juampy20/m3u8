@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="(CABLE)", 9LINK CHACO 
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
@@ -165,6 +163,12 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA https://panel.dattalive.com/8138/8138/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanalU.ar" tvg-logo="https://lh3.googleusercontent.com/-bhc1ryCQBss/XjtDRMLA6RI/AAAAAAAAvo8/A5WXhRqhV2EdFzBWINyyhUoqFK1eYWJmQCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", CANAL U CORDOBA https://stream.arcast.live/canalu/canalu/playlist.m3u8
+
+
+
+
+
+
 
 
 
