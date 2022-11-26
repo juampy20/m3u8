@@ -5,7 +5,7 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.diariotiempo.com.ar/wp-content/uploads/2022/01/Ver-TyC-Sports-en-vivo-online-GRATIS-780x470.jpg" group-title="(DEPORTES)" , TYC SPORTS 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvMENYQreQi4HmEZECV_tDFmx5R-BeOYs6wORJsCgER_XxPyw1-bY2XROlUC4082v9_TOKzYr9lLWRULf8ZagnGSTX1LaSmMPvbd_bAFSJth0Kw4oTk3nl0UxibRGU4Qw2OVCm7Jem3Uy7mSezBkunLAqW4UnVdjo6aFzsGx0CuOp7diQuSLF4xQicjBjHVcPBXHfpEfspw32gyGJJ3dkKVy7v4_XEqwvIk7dyZ3xjZkZwVS7c8y562P-9Pnu26oIiOW2O03poGYGVGSrSzO6eXLgPfBa_FaaUAHCgXvA5negnXI3owdCP35IFM9RbS2RuhKAvJALA_rIr01OmnXB25XKTy1CcLdkuSUekeclNvpsNyHzaZ4ddCOt9l8-mIRwNE8L3qFx8TWNAJ0emQjJIsZTkfmcOO4zObP6z4gIm8XPBLSjccC00eQogsgiVuOEUBLwNFIHlzDyuhoKvPPaQBcpSijCVvV1gLLlqy1vMAbvWcMMWKpmc0agyb4oTYRRXnhQsgCI7IQ383PjkgW0O4VJz3e2yeQWz_Bkg-3-pdcENEJd38onqGAbrGQa_SZ2Z_1WqBwhaDDg-YVoWKILjDD1B-dKpDzEv9W_omjsm8oXaQ84iMszNgSvN6VJbwIJ680qWGMuWJ1pRrg9QMDuGF65pxMukoWK55LL3ucHfvCPo09wTumHaYp-cqOszspNhCYukzQ9J-4oY2ZuY_dxgIr-2RsqwsIspRrJGqsAMiO4CeYOBV8s6OKkYPBG0HK7V4agBRVyetZZC7WcJ7ICH0WMouvInD9u-lj_Rwg19drczCdg_IJlWLBh8zg6q-1IvWfGCBVGgy1GZpEP7mQube_d5AgASoJdXMtZWFzdC0xMNQD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="(MUSICA)", MUSIC TOP 
